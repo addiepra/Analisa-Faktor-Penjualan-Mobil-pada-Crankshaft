@@ -1,4 +1,4 @@
-# Project-Sprint-3-Analisa-Faktor-Penjualan-Mobil-pada-Crankshaft-
+# Analisa-Faktor-Penjualan-Mobil-pada-Crankshaft-
 ## Pendahuluan <a id='intro'></a>
 Sebagai seorang analis di Crankshaft List, saya memiliki tanggung jawab untuk menganalisis data yang telah terkumpul dari ratusan iklan kendaraan gratis yang ditayangkan di situs web perusahaan setiap harinya. Dalam upaya untuk lebih memahami faktor-faktor yang memiliki pengaruh terhadap harga kendaraan, saya akan memeriksa data yang telah terakumulasi selama beberapa tahun terakhir. Dengan menganalisis data ini, tujuan utama saya adalah untuk mengidentifikasi dan menggali wawasan mengenai variabel-variabel apa yang memiliki korelasi dengan harga kendaraan. Melalui pendekatan analitis ini, perusahaan kami berharap dapat memberikan informasi yang berharga kepada pengguna situs kami, serta mendukung keputusan pembelian dan penjualan kendaraan yang lebih baik di pasar.
 ### Tujuan: 
