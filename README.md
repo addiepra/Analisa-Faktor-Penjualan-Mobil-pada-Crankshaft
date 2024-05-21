@@ -16,7 +16,7 @@ Di sini kita akan melakukan analisa dataset pada `/datasets/vehicles_us.csv.csv`
 Proyek ini terdiri dari 12 tahap: 
  1. Pra-pemrosesan data
  2. Mengatasi Nilai-Nilai yang Hiang (Jika Ada)
- 3. Memoerbaiki Tipe Data
+ 3. Memperbaiki Tipe Data
  4. Memperbaiki Kualitas Data
  5. Memeriksa Data yang Sudah Bersih
  6. Mempelajari Parameter Inti
